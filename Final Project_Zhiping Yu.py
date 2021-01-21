@@ -1,6 +1,6 @@
 
 #filename:finalProject.py
-#I,Zhiping Yu, student number 000822513, certify that all code submitted is my own work; that I have not copied it from any other source.
+#I,Zhiping Yu,certify that all code submitted is my own work; that I have not copied it from any other source.
 #I also certify that I have not allowed my work to be copied by others.
 
 import random
